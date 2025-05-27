@@ -9,7 +9,7 @@
 [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
 
-[Download Latest Release](https://github.com/yourusername/pomodoro-timer/releases) • [Report Bug](https://github.com/yourusername/pomodoro-timer/issues) • [Request Feature](https://github.com/yourusername/pomodoro-timer/issues)
+[Download Latest Release](https://github.com/FalloutGhoulBusta/pomodoro-timer/releases) • [Report Bug](https://github.com/FalloutGhoulBusta/pomodoro-timer/issues) • [Request Feature](https://github.com/FalloutGhoulBusta/pomodoro-timer/issues)
 
 </div>
 
@@ -36,7 +36,7 @@
 ### Installation
 
 ```bash
-git clone https://github.com/yourusername/pomodoro-timer.git
+git clone https://github.com/FalloutGhoulBusta/pomodoro-timer.git
 ```
 
 ```bash
@@ -155,9 +155,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- 📧 Email: support@yourapp.com
-- 💬 Discord: [Join our community](https://discord.gg/yourserver)
-- 🐦 Twitter: [@YourAppHandle](https://twitter.com/yourapphandle)
+- 📧 [Open an Issue](https://github.com/FalloutGhoulBusta/pomodoro-timer/issues) for support
 
 ---
 
@@ -165,6 +163,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **[⬆ Back to Top](#-pomodoro-timer)**
 
-Made with ❤️ by [Your Name](https://github.com/yourusername)
+Made with ❤️ by [FalloutGhoulBusta](https://github.com/FalloutGhoulBusta)
 
 </div>
