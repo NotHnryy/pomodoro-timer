@@ -98,9 +98,9 @@ Built applications will be available in the `dist/` directory.
 
 <div align="center">
 
-| Timer View | Settings | Focus Mode |
-|------------|----------|------------|
-| ![Timer](screenshots/timer.png) | ![Settings](screenshots/settings.png) | ![Focus](screenshots/focus.png) |
+| Timer View | Focus Mode |
+|------------|------------|
+| ![Timer](screenshots/TimerView.png) | ![Focus](screenshots/FocusMode.png) |
 
 </div>
 
